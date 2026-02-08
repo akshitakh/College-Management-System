@@ -2,7 +2,6 @@
 
 College Management System with CRUD Operation| Responsive Website with JDBC and MySQL #JavaServlets
 
-https://github.com/user-attachments/assets/f853bb31-5181-4dcd-a156-6151e6c0fdce
 
 
 
